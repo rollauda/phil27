@@ -1,0 +1,176 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  /* Palette orangée PHIL25 - Logique/Sciences */
+  --ifm-color-primary: #ff8624;
+  --ifm-color-primary-dark: #ff7607;
+  --ifm-color-primary-darker: #f76f00;
+  --ifm-color-primary-darkest: #cc5b00;
+  --ifm-color-primary-light: #ff9641;
+  --ifm-color-primary-lighter: #ff9e50;
+  --ifm-color-primary-lightest: #ffb67b;
+  --ifm-background-color: #f3ffeb;
+  
+  /* Background et couleurs de base */
+  --ifm-background-color: #fff9f6; /* Blanc cassé chaleureux */
+  --ifm-font-color-base: #1c1917; /* Brun très foncé pour le texte */
+  --ifm-navbar-link-color: #ffffff; /* Liens blancs sur navbar orange */
+  --ifm-navbar-link-hover-color: #fed7aa; /* Hover orange très clair */
+  
+  /* Autres paramètres */
+  --ifm-code-font-size: 95%;
+  --ifm-navbar-height: 50px;
+  --docusaurus-highlighted-code-line-bg: rgba(234, 88, 12, 0.1);
+}
+
+/* Limiter la largeur de l'encart tip sur toutes les pages */
+.theme-admonition {
+  max-width: 900px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Navbar avec orange terracotta */
+.theme-layout-navbar,
+.navbar,
+.navbar__inner {
+  background-color: #ff881e !important; /* Orange terracotta */
+  opacity: 1 !important;
+  backdrop-filter: none !important;
+}
+
+/* Liens navbar - styles avec effets boutons */
+.navbar__link {
+  color: #ffffff !important;
+  transition: all 0.2s ease;
+}
+
+.navbar__link:hover {
+  color: #b84c1b !important;
+  background-color: rgba(255, 255, 255, 0.15) !important;
+  border-radius: 6px;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Liens actifs navbar */
+.navbar__link--active,
+.navbar__item--show-dropdown .navbar__link {
+  color: #b84c1b !important;
+  background-color: rgba(255, 255, 255, 0.2) !important;
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+/* Footer avec orange terracotta */
+.footer {
+  background-color: #ff881e !important; /* Orange terracotta */
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  font-size: 0.80rem !important;
+  border-top: 3px solid #ff881e; /* Bordure orange plus foncé */
+}
+
+/* Texte et liens footer en blanc */
+.footer,
+.footer a {
+  color: #ffffff !important;
+}
+
+.footer a:hover {
+  color: #fed7aa !important;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  /* Palette orangée adaptée au mode sombre */
+  --ifm-color-primary: #fb923c;
+  --ifm-color-primary-dark: #ea580c;
+  --ifm-color-primary-darker: #c2410c;
+  --ifm-color-primary-darkest: #9a3412;
+  --ifm-color-primary-light: #fdba74;
+  --ifm-color-primary-lighter: #fed7aa;
+  --ifm-color-primary-lightest: #ffedd5;
+  --ifm-background-color: #1a1a1a;
+  --ifm-font-color-base: #e3e3e3;
+  --ifm-navbar-link-color: #e3e3e3;
+  --ifm-navbar-link-hover-color: #fb923c; /* Orange clair harmonieux */
+  --docusaurus-highlighted-code-line-bg: #fb923c1a;
+}
+
+/* Inverser les couleurs des icônes SVG en mode sombre (sauf navbar) */
+[data-theme='dark'] svg {
+  filter: invert(1) hue-rotate(180deg) !important;
+}
+
+/* Exceptions : ne pas inverser les icônes de la navbar et du contenu */
+[data-theme='dark'] .navbar svg,
+[data-theme='dark'] .theme-admonition svg,
+[data-theme='dark'] .markdown svg,
+[data-theme='dark'] .theme-code-block svg {
+  filter: none !important;
+}
+
+/* Navbar et footer en mode sombre avec thème orange */
+[data-theme='dark'] .theme-layout-navbar,
+[data-theme='dark'] .navbar,
+[data-theme='dark'] .navbar__inner {
+  background-color: #2a2a2a !important; /* Gris foncé */
+}
+
+[data-theme='dark'] .footer {
+  background-color: #2a2a2a !important;
+  border-top: 3px solid var(--ifm-color-primary);
+}
+
+[data-theme='dark'] .footer,
+[data-theme='dark'] .footer a {
+  color: #e3e3e3 !important;
+}
+
+/* Liens actifs en mode sombre */
+[data-theme='dark'] .navbar__link--active,
+[data-theme='dark'] .navbar__item--show-dropdown .navbar__link {
+  color: var(--ifm-navbar-link-hover-color) !important;
+  font-weight: 600;
+}
+
+/* Ajustement des titres */
+h1 { font-size: 2.25rem !important; }  /* vs ~2.5rem par défaut */
+h2 { font-size: 1.75rem !important; }  /* vs ~2rem        */
+h3 { font-size: 1.5rem  !important; }  /* vs ~1.75rem     */
+
+/* Style des tableaux avec alternance par défaut et arrondis */
+table {
+  border-radius: 12px !important;
+  overflow: hidden !important;
+}
+
+table td, table th {
+  border-radius: 4px !important;
+}
+
+/* Couleur de fond par défaut pour les cellules */
+table td {
+  background-color: #fdf8f5c6!important; /* Blanc par défaut */
+}
+
+/* Alternance - lignes paires (2, 4, 6...) */
+table tr:nth-child(even) td {
+  background-color: #ffeee48e !important; /* Gris clair pour les lignes paires */
+}
+
+/* En-têtes avec couleur plus marquée */
+table th {
+  background-color: #ffeee48e !important; /* Gris plus foncé pour les en-têtes */
+}
+
+/* Bordures optionnelles pour mieux définir les cellules */
+table td, table th {
+  border: 1px solid #dee2e6 !important;
+}
