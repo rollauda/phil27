@@ -73,6 +73,15 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
+        id: 'glossaire',
+        path: 'glossaire',
+        routeBasePath: 'glossaire',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
         id: 'courants',
         path: 'courants',
         routeBasePath: 'courants',
@@ -121,6 +130,12 @@ const config = {
             label: 'Notions',
             position: 'left',
             activeBaseRegex: `/notions/`,
+          },
+          {
+            to: '/glossaire/',
+            label: 'Glossaire',
+            position: 'left',
+            activeBaseRegex: `/glossaire/`,
           },
           {
             to: '/auteurs/',
