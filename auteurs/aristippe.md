@@ -6,7 +6,9 @@ title: Aristippe de Cyrène
 
 ## Biographie
 
-**Aristippe de Cyrène** (Cyrène, v. 435 – v. 355 av. J.-C.) est le disciple de Socrate qui fonda l'**hédonisme** philosophique : faire du **plaisir** (*hêdonê*) le souverain bien de l'existence.
+**Aristippe de Cyrène** (Cyrène, v. 435 – v. 355 av. J.-C.) est le disciple de Socrate qui fonda l'**hédonisme** philosophique : faire du **plaisir** (*hêdonê*) le souverain bien de l'existence. Il représente l'hédonisme le plus radical de l'Antiquité, à l'opposé de la sagesse austère de son maître.
+
+Né à **Cyrène**, riche colonie grecque de Libye, Aristippe vient à Athènes, attiré, dit-on, par la renommée de **Socrate**, dont il devient l'un des disciples. Mais *à la différence* de Platon, il tire de Socrate une leçon inverse : puisque tous les hommes recherchent le plaisir, faisons-en ouvertement la **fin** de la vie. Diogène Laërce rapporte qu'il fut le **premier des disciples de Socrate à se faire payer** pour son enseignement, et qu'il sut vivre dans le luxe comme dans le dénuement — notamment à la cour du tyran **Denys de Syracuse** — en s'adaptant « à tout lieu, à tout temps, à tout personnage ».
 
 ## Concepts
 
@@ -26,30 +28,14 @@ Point subtil mais capital du cyrénaïsme : la fin de la vie n'est pas le **bonh
 
 L'hédonisme d'Aristippe n'est pas un abandon à ses appétits : c'est un art de **jouir en restant maître de soi**. Le sage cyrénaïque profite des plaisirs sans s'y **asservir** : il peut tout prendre et tout quitter, s'adapter à l'opulence comme à la privation. L'exemple fameux est celui de la courtisane **Laïs**, dont Aristippe était l'amant : à qui lui reproche cette liaison, il répond qu'il *possède* Laïs sans être *possédé* par elle. Le comble de la vertu, dit-il, n'est pas de s'abstenir des plaisirs, mais de **les dominer sans s'en priver**. Ce libre usage des plaisirs est aussi une forme de liberté : ne dépendre d'aucun d'eux.
 
-## Citations
+## Notions du programme
 
-> **Avertissement :** Aristippe n'ayant laissé aucun écrit, les « citations » ci-dessous sont des propos et des exposés doctrinaux **rapportés** par Diogène Laërce (IIIᵉ s. apr. J.-C.). Ce sont des témoignages, non des phrases écrites de la main d'Aristippe.
-
-### 1. Sur la définition du plaisir (définition opératoire)
-
-> « [Aristippe] assignait à l'homme la volupté pour fin, et la définissait : un mouvement doux accompagné de sensation. »
-
-Diogène Laërce, *Vies et doctrines des philosophes illustres*, II
-(traduction reprise dans la leçon Bonheur)
-
-### 2. Sur la maîtrise des plaisirs (geste polémique)
-
-> « Je possède Laïs, mais je ne suis pas possédé par elle. »
-
-Diogène Laërce, *Vies et doctrines des philosophes illustres*, II, 75
-(propos d'Aristippe rapporté par Diogène Laërce)
-
-### 3. Sur la preuve que le plaisir est la fin (thèse condensée)
-
-> « Ce qui prouve que le plaisir est la fin de l'homme, c'est que dès l'enfance nous nous y portons sans réflexion ; que du moment où nous le possédons, nous ne désirons rien d'autre, et que nous ne craignons rien tant que son contraire, la douleur. »
-
-Diogène Laërce, *Vies et doctrines des philosophes illustres*, II
-(exposé de la doctrine cyrénaïque — l'« argument du berceau »)
+| Notion | Lien avec Aristippe |
+|--------|--------------------|
+| **Le bonheur** | Le souverain bien est le plaisir du corps, particulier et présent (*plaisir-mouvement*), non l'*eudaimonia* comme somme d'une vie (Diogène Laërce, *Vies*, II) |
+| **Le temps** | Seul le plaisir présent est réel et désirable : ni regret du passé, ni souci de l'avenir (Diogène Laërce, *Vies*, II) |
+| **La liberté** | « Posséder sans être possédé » : jouir des plaisirs sans s'y asservir, s'adapter à toute circonstance (Diogène Laërce, *Vies*, II, 66-75) |
+| **Le devoir** | *Par contraste* : l'hédonisme cyrénaïque ignore le devoir et l'obligation — utile pour opposer une morale du plaisir aux morales de la loi (Kant) |
 
 ## Œuvres
 

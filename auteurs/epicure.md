@@ -8,6 +8,8 @@ title: Épicure
 
 **Épicure** (341-270 av. J.-C.) est un philosophe grec de l'époque hellénistique, fondateur de l'**épicurisme** : la première grande philosophie à concevoir explicitement la pensée comme une **médecine de l'âme**, tout entière ordonnée au bonheur de l'individu.
 
+Il naît en 341 av. J.-C. à **Samos**, île de la mer Égée où son père, citoyen athénien, s'était installé comme maître d'école. Il découvre la philosophie très jeune et se forme notamment auprès de **Nausiphane**, un disciple de Démocrite : c'est de là qu'il hérite l'**atomisme**, la doctrine qui explique tout ce qui existe par des atomes en mouvement dans le vide. Après avoir enseigné à Mytilène puis à Lampsaque, il s'installe à Athènes vers 306 et y fonde son école dans le jardin de sa maison — d'où son nom : **le Jardin** (*Kêpos*).
+
 ## Concepts
 
 ### 1. Le plaisir-repos (*hêdonê* catastématique)
@@ -35,28 +37,17 @@ Ce n'est pas un slogan mais un **argument**, dirigé contre l'évidence commune 
 
 La morale d'Épicure s'appuie sur une **physique matérialiste** héritée de Démocrite : tout ce qui existe se réduit à des **atomes** (insécables, éternels) et au **vide** dans lequel ils tombent. Les corps naissent et se défont au gré de leurs rencontres — l'âme elle-même est faite d'atomes subtils, et la mort n'est que leur dispersion. Épicure ajoute une thèse décisive : en tombant, les atomes *dévient* imperceptiblement de leur trajectoire — la **déclinaison**, en latin *clinamen* (doctrine surtout connue par **Lucrèce** et Cicéron). Cette déviation minuscule a une portée immense : elle fonde à la fois la **contingence** du monde (aucun dieu ne l'a ordonné) et le **libre-arbitre** humain (contre le déterminisme strict de Démocrite). Ainsi, connaître la nature n'est pas une curiosité savante : c'est se guérir de la crainte des dieux et de la mort.
 
-## Citations
+## Notions du programme
 
-### 1. Sur la mort
-
-> « Ainsi celui de tous les maux qui nous donne le plus d'horreur, la mort, n'est rien pour nous, puisque, tant que nous existons nous-mêmes, la mort n'est pas, et que, quand la mort existe, nous ne sommes plus. »
-
-*Lettre à Ménécée*, §125
-Traduction Octave Hamelin, revue par Jean Salem
-
-### 2. Sur le plaisir-repos 
-
-> « Le plaisir dont nous parlons est celui qui consiste, pour le corps, à ne pas souffrir et, pour l'âme, à être sans trouble. »
-
-*Lettre à Ménécée*, §131
-Traduction Octave Hamelin, revue par Jean Salem
-
-### 3. Sur la religion 
-
-> « L'impie n'est pas celui qui rejette les dieux de la foule, c'est celui qui attribue aux dieux ce que leur prêtent les opinions de la foule. »
-
-*Lettre à Ménécée*, §123
-Traduction Octave Hamelin, revue par Jean Salem
+| Notion | Lien avec Épicure |
+|--------|--------------------|
+| **Le bonheur** | Le bonheur comme plaisir-repos (*ataraxie* et *aponie*), le calcul des plaisirs, l'autosuffisance (*Lettre à Ménécée*) |
+| **La liberté** | Le *clinamen* fonde le libre-arbitre contre le déterminisme ; l'autosuffisance comme liberté intérieure (« Cache ta vie ») |
+| **La religion** | Critique de la crainte des dieux ; les dieux existent mais ne gouvernent pas le monde ; la vraie impiété (*Lettre à Ménécée*, §123-124) |
+| **La nature** | Physique matérialiste (atomes et vide) ; connaître la nature guérit des peurs ; distinction du naturel et du vain dans les désirs |
+| **La raison** | La prudence (*phronêsis*), calcul des plaisirs et des peines, « le plus grand des biens » ; la philosophie comme raisonnement vigilant |
+| **La science** | L'atomisme et la *canonique* (théorie de la connaissance fondée sur la sensation et les « prénotions ») (*Lettre à Hérodote*) |
+| **Le devoir** | *Par contraste* : l'épicurisme est une morale du bonheur, non du devoir — utile pour opposer eudémonisme et morale déontologique (Kant) |
 
 ## Œuvres
 

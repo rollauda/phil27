@@ -2,7 +2,6 @@
 title: "Le temps"
 sidebar_position: 2
 description: "Fiche de révision, exercices et corrigés sur le temps."
-tags: [fiches, temps]
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl';

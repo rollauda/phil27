@@ -6,7 +6,9 @@ title: Aristote
 
 ## Biographie
 
-**Aristote** (384-322 av. J.-C.) est un philosophe grec né à Stagire, en Macédoine.
+**Aristote** (384-322 av. J.-C.) est un philosophe grec né à Stagire, en Macédoine. Fils d'un médecin attaché à la cour du roi de Macédoine, il entre à dix-sept ans à l'Académie de Platon, à Athènes, où il reste vingt ans comme élève puis comme enseignant. Après la mort de Platon (347), il quitte Athènes, voyage en Asie Mineure, puis devient le précepteur du jeune Alexandre le Grand.
+
+En 335, il revient à Athènes et fonde sa propre école, le **Lycée** (aussi appelé le Péripatos, d'où le nom de « péripatéticiens » donné à ses disciples, car il enseignait en marchant). Il y enseigne pendant douze ans. À la mort d'Alexandre (323), un sentiment anti-macédonien se répand à Athènes ; Aristote quitte la ville, déclarant qu'il ne veut pas que les Athéniens « pèchent deux fois contre la philosophie » (allusion à la condamnation de Socrate). Il meurt un an plus tard à Chalcis, en Eubée.
 
 ## Concepts
 
@@ -25,25 +27,19 @@ Tout être est composé de **puissance** (ce qu'il peut devenir) et d'**acte** (
 ### 5. Zôon politikon (animal politique)
 L'homme est par nature un **animal politique** (*zôon politikon*) : il est fait pour vivre dans une cité (*polis*), c'est-à-dire dans une communauté organisée par des lois et orientée vers le bien commun. La cité n'est pas un contrat artificiel entre individus isolés : elle est **naturelle**, car l'homme ne peut s'accomplir pleinement (atteindre le bonheur, exercer la vertu) qu'au sein d'une communauté. Le langage (*logos*), qui distingue l'homme de l'animal, n'est pas fait seulement pour exprimer le plaisir et la douleur, mais pour délibérer sur le juste et l'injuste.
 
-## Citations
+## Notions du programme
 
-### 1. Sur le bonheur
-> « Le bonheur est une certaine activité de l'âme en accord avec une vertu parfaite. »
-
-*Éthique à Nicomaque*, I, 13, 1102a5
-Traduction J. Tricot, Vrin
-
-### 2. Sur l'homme comme animal politique
-> « Il est évident que l'homme est un animal politique, bien plus que n'importe quelle abeille ou n'importe quel animal grégaire. Car la nature, comme nous le disons, ne fait rien en vain, et l'homme est le seul des animaux à posséder le langage. »
-
-*Politique*, I, 2, 1253a7-10
-Traduction P. Pellegrin, GF-Flammarion
-
-### 3. Sur la vertu et l'habitude
-> « Ce n'est ni par nature ni contrairement à la nature que les vertus naissent en nous ; mais la nature nous a donné la capacité de les recevoir, et cette capacité est amenée à maturité par l'habitude. »
-
-*Éthique à Nicomaque*, II, 1, 1103a24-26
-Traduction J. Tricot, Vrin
+| Notion | Lien avec Aristote |
+|--------|--------------------|
+| **Le bonheur** | Le bonheur comme souverain bien, activité selon la vertu (*Éthique à Nicomaque*, I et X) |
+| **La nature** | La nature comme principe interne, la distinction naturel/artificiel, la finalité (*Physique*, II) |
+| **L'État** | L'homme comme animal politique, la cité comme communauté naturelle (*Politique*, I) |
+| **La justice** | La justice distributive et la justice corrective, l'équité (*Éthique à Nicomaque*, V) |
+| **L'art** | La mimèsis et la catharsis (*Poétique*) |
+| **La technique** | La distinction *phusis* / *technè*, la main comme « outil des outils » (*Les Parties des animaux*, IV, 10) |
+| **Le devoir** | La vertu comme disposition, la prudence (*phronèsis*) (*Éthique à Nicomaque*, II et VI) |
+| **La conscience** | L'âme comme forme du corps vivant (*De l'Âme*, II) |
+| **Le langage** | Le *logos* comme propre de l'homme, la délibération politique (*Politique*, I, 2) |
 
 ## Œuvres
 

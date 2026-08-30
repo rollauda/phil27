@@ -6,7 +6,9 @@ title: Platon
 
 ## Biographie
 
-**Platon** (428/427-348/347 av. J.-C.) est un philosophe grec né à Athènes dans une grande famille aristocratique.
+**Platon** (428/427-348/347 av. J.-C.) est un philosophe grec né à Athènes dans une grande famille aristocratique. Son vrai nom serait Aristoclès ; « Platon » (*platôn*, « le large ») serait un surnom lié à sa carrure ou à l'ampleur de son style. Destiné par sa naissance à la carrière politique, il est détourné de cette voie par sa rencontre décisive avec **Socrate**, dont il devient le disciple vers vingt ans.
+
+La condamnation à mort de Socrate, en 399, par la démocratie athénienne, est l'événement fondateur de sa pensée. Elle lui fait rompre avec la vie politique de son temps et fait naître une conviction qui traverse toute son œuvre : une cité ne peut être juste que si elle est gouvernée selon le savoir, et non selon l'opinion ou l'intérêt du plus fort. Après la mort de Socrate, Platon voyage (Mégare, l'Égypte peut-être, l'Italie du Sud où il rencontre les pythagoriciens), puis se rend à **Syracuse**, en Sicile, où il tente en vain de convertir les tyrans Denys l'Ancien puis Denys le Jeune à sa philosophie politique — trois voyages qui se soldent par des échecs, voire des dangers pour sa vie.
 
 ## Concepts
 
@@ -54,25 +56,18 @@ Cette thèse a une conséquence forte, développée dans le *Gorgias* : **commet
 
 Elle se forge **contre** l'évidence commune (on croit qu'on peut faire le mal en connaissance de cause, par faiblesse ou par méchanceté). Aristote la critiquera d'ailleurs en introduisant la notion de *faiblesse de la volonté* (*akrasia*) : on peut savoir le bien et ne pas le faire.
 
-## Citations
+## Notions du programme
 
-### 1. Sur la politique 
-
-> « Tant que les philosophes ne seront pas rois dans les cités, ou que ceux qu'on appelle aujourd'hui rois et souverains ne seront pas philosophes véritablement et sérieusement [...], il n'y aura de cesse, mon cher Glaucon, aux maux des cités, ni non plus, je crois, à ceux du genre humain. »
-
-*La République*, V, 473c-d (trad. Victor Cousin, domaine public). — Formule du « roi-philosophe » : seul le savoir du vrai bien peut fonder un gouvernement juste. Utile en accroche d'une dissertation sur l'État ou la justice.
-
-### 2. Sur l'origine de la philosophie
-
-> « C'est tout à fait le fait d'un philosophe, l'affection que tu éprouves là, de t'étonner ; car la philosophie n'a pas d'autre origine que celle-là. »
-
-*Théétète*, 155d (trad. Victor Cousin, domaine public). — L'étonnement (*thaumazein*) est le commencement de la philosophie : philosopher, c'est cesser de tenir le monde pour évident. Définition réutilisable telle quelle dans une introduction sur ce qu'est la philosophie.
-
-### 3. Sur l'injustice 
-
-> « S'il fallait absolument commettre l'injustice ou la subir, je choisirais de la subir plutôt que de la commettre. »
-
-*Gorgias*, 469c (trad. Victor Cousin, domaine public). — Renversement paradoxal, dirigé contre Polos puis Calliclès : l'injuste, qui dérègle son âme, est plus à plaindre que sa victime. Précieux pour construire une antithèse ou un dépassement sur la justice, la morale ou le bonheur.
+| Notion | Lien avec l'auteur |
+| --- | --- |
+| **Bonheur** | Le *Gorgias* oppose deux conceptions du bonheur (jouissance illimitée / vie ordonnée par la raison) ; *La République* soutient que l'homme juste est le plus heureux. |
+| **Justice** | *La République* cherche à définir la justice, dans la cité (chacun à sa place) comme dans l'âme (harmonie des trois parties) ; *Gorgias* : mieux vaut subir l'injustice que la commettre. |
+| **Vérité** | L'allégorie de la caverne (*République*, VII) figure l'accès à la vérité comme sortie hors des apparences ; *Théétète* : qu'est-ce que la connaissance ? |
+| **Raison** | La partie rationnelle de l'âme doit commander ; la dialectique est l'exercice de la raison qui s'élève vers les Idées. |
+| **Liberté** | *Gorgias* : la vraie liberté n'est pas « faire ce qu'on veut » (Calliclès) mais se commander à soi-même ; l'esclave de ses désirs n'est pas libre. |
+| **État** | *La République* décrit la cité idéale gouvernée par les philosophes ; *Le Politique* et *Les Lois* prolongent la réflexion sur le meilleur gouvernement. |
+| **Art** | *La République* (X) condamne l'art comme *imitation* (*mimèsis*) : copie de copie, il éloigne de la vérité et flatte les passions ; d'où le bannissement des poètes de la cité. |
+| **Langage** | *Le Cratyle* pose la question de la justesse des noms : les mots disent-ils la nature des choses, ou ne sont-ils que des conventions ? |
 
 ## Œuvres
 

@@ -8,6 +8,8 @@ title: Épictète
 
 **Épictète** (Hiérapolis, en Phrygie, v. 50 – Nicopolis, en Épire, v. 135 apr. J.-C.) est le philosophe stoïcien qui, d'ancien **esclave**, a fait de la **liberté intérieure** le cœur de la sagesse : peu importe la condition extérieure, nul ne peut m'asservir si je ne le veux pas.
 
+Né esclave à Hiérapolis, il appartient à Rome à **Épaphrodite**, un affranchi de Néron. C'est là qu'il suit l'enseignement du stoïcien **Musonius Rufus**, qui le marque profondément. Affranchi à son tour, il enseigne la philosophie à Rome, jusqu'à ce que l'empereur **Domitien**, hostile aux philosophes, les bannisse de la ville (vers 93 apr. J.-C.). Épictète se retire alors à **Nicopolis**, en Grèce, où il ouvre une école qui attire de nombreux disciples, dont de futurs hauts fonctionnaires de l'Empire.
+
 ## Concepts
 
 ### 1. Ce qui dépend de nous / ce qui n'en dépend pas (*eph'hêmin* / *ouk eph'hêmin*)
@@ -26,28 +28,17 @@ Voici le paradoxe vécu d'Épictète, l'ancien esclave : **on peut être esclave
 
 Puisque le cours des choses ne dépend pas de nous, la sagesse consiste à **s'y accorder** plutôt qu'à s'y opposer en vain : non pas subir en serrant les dents, mais **vouloir** que les choses arrivent comme elles arrivent. Épictète l'illustre par l'image de l'**acteur** : nous ne choisissons pas notre rôle (les circonstances, la naissance, la durée de notre vie), mais il dépend de nous de le **bien jouer**. Ce consentement n'est pas résignation passive : c'est l'adhésion active à un ordre du monde tenu pour rationnel et providentiel. Vouloir ce qui est, c'est n'être jamais déçu — donc être heureux.
 
-## Citations
+## Notions du programme
 
-### 1. Sur la distinction fondamentale (définition opératoire)
-
-> « De toutes les choses du monde, les unes dépendent de nous, les autres n'en dépendent pas. Celles qui en dépendent sont nos opinions, nos mouvements, nos désirs, nos inclinations, nos aversions ; en un mot, toutes nos actions. »
-
-*Manuel*, I
-Traduction André Dacier
-
-### 2. Sur le consentement (thèse condensée)
-
-> « Ne demande point que les choses arrivent comme tu les désires, mais désire qu'elles arrivent comme elles arrivent, et tu seras toujours heureux. »
-
-*Manuel*, XIV
-Traduction André Dacier
-
-### 3. Sur le trouble et les jugements (geste polémique)
-
-> « Ce qui trouble les hommes, ce ne sont pas les choses, mais les opinions qu'ils en ont. »
-
-*Manuel*, V (numérotation moderne des 53 chapitres)
-Traduction courante ; cf. la note sur la numérotation en fin de fiche
+| Notion | Lien avec Épictète |
+|--------|--------------------|
+| **Le bonheur** | Le bonheur ne dépend que de nous : ne désirer que ce qui est en notre pouvoir et consentir au reste (*Manuel*, I et VIII) |
+| **La liberté** | La liberté intérieure de l'ancien esclave : est libre celui qui ne veut que ce qui dépend de lui (*Entretiens*, IV, 1 « De la liberté ») |
+| **Le devoir** | Les « fonctions » ou actions convenables (*kathêkonta*) : bien tenir le rôle qui nous est assigné (*Manuel*, XXV ; *Entretiens*, II, 10) |
+| **La raison** | Le bon usage des représentations (*phantasiai*) par la faculté maîtresse (*hêgemonikon*), part divine en l'homme (*Entretiens*, I, 1) |
+| **La nature** | Vivre en accord avec la nature et l'ordre du monde ; consentir au cours des choses (*Manuel*, VIII) |
+| **La religion** | La providence divine (Zeus) ; accepter la volonté de Dieu comme celle d'un ordre bon (*Entretiens*, I, 16) |
+| **La conscience** | L'attention vigilante à soi (*prosochê*) : surveiller sans cesse ses jugements (*Entretiens*, IV, 12) |
 
 ## Œuvres
 

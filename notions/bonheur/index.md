@@ -2,7 +2,6 @@
 title: "Le bonheur"
 sidebar_position: 1
 description: "Fiche de révision, exercices et corrigés sur le bonheur."
-tags: [fiches, bonheur]
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl';

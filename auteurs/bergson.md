@@ -6,7 +6,9 @@ title: Bergson
 
 ## Biographie
 
-**Henri Bergson** (Paris, 18 octobre 1859 – Paris, 4 janvier 1941) est l'un des philosophes français les plus influents de la première moitié du XX<sup>e</sup> siècle.
+**Henri Bergson** (Paris, 18 octobre 1859 – Paris, 4 janvier 1941) est l'un des philosophes français les plus influents de la première moitié du XX<sup>e</sup> siècle. Issu d'une famille juive d'origine polonaise, il fait des études brillantes au lycée Condorcet, puis entre à l'**École normale supérieure** en 1878 dans la même promotion que Jaurès et Durkheim. Agrégé de philosophie en 1881, il enseigne d'abord en lycée (Angers, Clermont-Ferrand, Paris) avant de soutenir en 1889 sa thèse principale, l'*Essai sur les données immédiates de la conscience*, qui pose d'emblée le concept central de **durée**.
+
+Élu au **Collège de France** en 1900, il y donne pendant vingt ans des cours qui drainent un public considérable (mondain et philosophique), bien au-delà du cercle académique. Élu à l'**Académie française** en 1914, il reçoit le **prix Nobel de littérature** en 1927 — distinction rare pour un philosophe, signe que son écriture, soignée et imagée, est considérée comme une œuvre littéraire à part entière.
 
 ## Concepts
 
@@ -22,27 +24,21 @@ L'**intelligence** est, pour Bergson, la faculté forgée par l'action sur la **
 ### 4. Mémoire (mémoire-habitude / mémoire pure)
 Bergson **dissocie** deux phénomènes que le langage commun confond. La **mémoire-habitude** est motrice : elle se réalise dans des **mécanismes corporels** appris par répétition (savoir conduire, réciter une leçon mécaniquement). La **mémoire pure** conserve, **dans l'esprit**, l'intégralité du passé sous forme d'images-souvenirs uniques et datées. Le cerveau ne stocke pas la mémoire pure — il **sélectionne**, en fonction du présent, les souvenirs utiles à l'action. Cette thèse a une portée immense : la conscience **excède** le cerveau, elle ne s'y réduit pas.
 
-## Citations
+## Notions du programme
 
-### 1. Sur la durée
-
-> « La durée est le progrès continu du passé qui ronge l'avenir et qui s'enfle en avançant. »
-
-*L'Évolution créatrice*, ch. I (1907)
-
-### 2. Sur le rire et le mécanique
-
-> « Les attitudes, gestes et mouvements du corps humain sont risibles dans l'exacte mesure où ce corps nous fait penser à une simple mécanique. »
-
-*Le Rire*, ch. I, §V (1900)
-
-> Cette formule est habituellement résumée par la condensation **« du mécanique plaqué sur du vivant »**, qui en restitue l'esprit.
-
-### 3. Sur l'élan vital et la création
-
-> « La vie […] se présente à nous comme un courant qui va d'un germe à un germe par l'intermédiaire d'un organisme développé. »
-
-*L'Évolution créatrice*, ch. I (1907)
+| Notion            | Lien avec Bergson                                                                                                                               |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Le temps**      | Durée pure vs temps spatialisé (*Essai*, ch. II ; *L'Évolution créatrice*, ch. I) — la notion centrale par excellence                           |
+| **La conscience** | Conscience comme durée, moi profond vs moi superficiel (*Essai*, ch. II et III)                                                                 |
+| **La liberté**    | L'acte libre comme expression du moi profond, contre le déterminisme (*Essai*, ch. III)                                                         |
+| **La nature**     | Élan vital, évolution créatrice, critique du mécanisme et du finalisme (*L'Évolution créatrice*, ch. I et III)                                  |
+| **La science**    | Limites de l'intelligence pour penser la vie ; complémentarité science/philosophie (*L'Évolution créatrice*, ch. II et IV)                      |
+| **La technique**  | L'homme comme *Homo faber* : l'intelligence est née pour fabriquer des outils (*L'Évolution créatrice*, ch. II)                                 |
+| **La religion**   | Religion statique (sociale) vs religion dynamique (mystique) (*Les Deux Sources*, ch. II et III)                                                |
+| **Le devoir**     | Morale close (obligation sociale) vs morale ouverte (appel des héros et des saints) (*Les Deux Sources*, ch. I)                                 |
+| **L'art**         | Le rire et le comique comme « mécanique plaqué sur du vivant » (*Le Rire*, ch. I) ; l'art comme dévoilement du réel (*La Pensée et le Mouvant*) |
+| **La vérité**     | L'intuition comme accès à la durée, irréductible à l'analyse intellectuelle (*La Pensée et le Mouvant*, « L'intuition philosophique »)          |
+| **L'inconscient** | Le passé conservé intégralement dans la mémoire pure, virtuel sous le présent (*Matière et mémoire*, ch. III)                                   |
 
 ## Œuvres
 
