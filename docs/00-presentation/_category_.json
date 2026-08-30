@@ -1,0 +1,8 @@
+{
+  "label": "Présentation de l'année",
+  "position": 1,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  }
+}
