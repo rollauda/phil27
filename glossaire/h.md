@@ -6,6 +6,7 @@ description: Glossaire philosophique — termes en H.
 
 # H
 
+
 ## Homo faber {#homo-faber}
 
 Locution latine : « l'homme fabricateur ». Définition de l'homme par sa capacité à fabriquer des outils.
@@ -22,3 +23,15 @@ Locution latine : « l'homme savant ». Désignation scientifique de l'espèce h
 
 - **Bergson** estime que cette définition ne correspond pas à ce que l'histoire et la préhistoire nous présentent comme la caractéristique constante de l'homme : il propose à la place *Homo faber* (fabricateur d'outils).
 - Le couple *Homo sapiens* / *Homo faber* structure le débat sur le propre de l'homme : pensée (savoir) ou action (faire) ?
+
+---
+
+## Hypothèse / conséquence / conclusion {#hypothese-consequence-conclusion}
+
+:::info[Repère officiel du programme]
+:::
+
+Structure du raisonnement déductif : d'une **hypothèse** (proposition posée au départ) on tire des **conséquences**, dont la vérification mène à une **conclusion**.
+
+- Une hypothèse est « admise sans que sa vérité soit démontrée » : c'est le point de départ d'un théorème ou d'une théorie.
+- En sciences expérimentales, on éprouve une hypothèse par ses conséquences observables ; si elles sont démenties, l'hypothèse est abandonnée (cf. *falsifiabilité*).
