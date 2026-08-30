@@ -132,12 +132,6 @@ const config = {
             activeBaseRegex: `/notions/`,
           },
           {
-            to: '/glossaire/',
-            label: 'Glossaire',
-            position: 'left',
-            activeBaseRegex: `/glossaire/`,
-          },
-          {
             to: '/auteurs/',
             label: 'Auteurs',
             position: 'left',
@@ -148,6 +142,12 @@ const config = {
             label: 'Courants',
             position: 'left',
             activeBaseRegex: `/courants/`,
+          },
+          {
+            to: '/glossaire/',
+            label: 'Glossaire',
+            position: 'left',
+            activeBaseRegex: `/glossaire/`,
           },
           {
             to: '/methode/intro',

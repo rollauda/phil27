@@ -35,6 +35,15 @@
   margin-right: auto !important;
 }
 
+/* Aligner les onglets Question/Réponse (fiches-notion) avec le texte du contenu.
+   Infima donne à .tabs__item un padding horizontal (~1rem) qui décale le 1er
+   libellé vers la droite par rapport au panneau de contenu situé en dessous.
+   On annule le padding gauche du premier onglet : « Question » s'aligne alors
+   sur le texte de la réponse. */
+.theme-admonition .tabs__item:first-child {
+  padding-left: 0;
+}
+
 /* Navbar avec orange terracotta */
 .theme-layout-navbar,
 .navbar,
