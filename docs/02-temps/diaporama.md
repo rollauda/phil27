@@ -4,10 +4,9 @@ sidebar_position: 1
 title: Diaporama
 ---
 
-# Diaporama de la leçon
-
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
+# Diaporama de la leçon
 
 <iframe
   src={useBaseUrl('/slides/02-temps/index.html')}
