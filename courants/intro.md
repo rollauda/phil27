@@ -4,8 +4,8 @@ sidebar_position: 0
 slug: /
 ---
 
-# Courants
+# Accueil
 
-Fiches sur les grands courants philosophiques mobilisés dans l'année.
-
-Format : définition + développement historique + philosophes représentatifs + une vidéo francophone d'introduction.
+:::tip
+Vous trouverez dans cette section des fiches synthétiques sur les grands courants philosophiques abordés dans l'année.
+:::

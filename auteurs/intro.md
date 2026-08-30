@@ -4,8 +4,10 @@ sidebar_position: 0
 slug: /
 ---
 
-# Auteurs
+# Accueil
 
-Fiches synthétiques sur les philosophes étudiés dans l'année.
+:::tip[présentation]
+Vous trouverez dans cette section des fiches synthétiques sur les philosophes étudiés dans l'année.
 
-Chaque fiche couvre : repères biographiques, œuvres principales, thèses essentielles, postérité, citations-clés.
+Chaque fiche donne des repères biographiques, les concepts et thèses principales du ou de la philosophe, quelques citations importantes.
+:::
