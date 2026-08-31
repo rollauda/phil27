@@ -48,6 +48,6 @@ La biographie d'Aristippe et l'exposé de la doctrine cyrénaïque occupent le l
 La doctrine cyrénaïque est également rapportée, par fragments, chez **Cicéron**, **Sextus Empiricus** et **Eusèbe de Césarée**. Ces témoignages permettent de distinguer la position d'Aristippe l'Ancien de celles de ses successeurs (Hégésias « le persuadeur de mort », Anniceris, Théodore l'Athée), qui infléchiront l'école dans des directions opposées.
 
 
-<br/>
+## Vidéo complémentaire
 
 <iframe width="700" height="450" src="https://www.youtube.com/embed/Rp7sm07EJBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

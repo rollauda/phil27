@@ -69,6 +69,6 @@ Recueil de quatre-vingt-une maximes, redécouvert en 1888 dans un manuscrit du V
 Grand traité de physique en trente-sept livres, aujourd'hui **perdu**, connu par des fragments retrouvés dans les papyrus carbonisés d'**Herculanum**. C'était l'exposé systématique de l'atomisme, dont les lettres ne donnent qu'un résumé.
 
 
-<br/>
+## Vidéo complémentaire
 
 <iframe width="700" height="450" src="https://www.youtube.com/embed/HVfHH6MWCTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

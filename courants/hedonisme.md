@@ -71,6 +71,6 @@ Rechercher le plaisir n'est pas s'abandonner à toute impulsion : il faut **pese
 - **Cynisme / ascétisme** — désaccord fondamental : la vertu est dans le **renoncement** et la maîtrise des besoins, non dans la jouissance.
 
 
-<br/>
+## Vidéo complémentaire
 
 <iframe width="700" height="450" src="https://www.youtube.com/embed/l4PX2P-KuBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -90,6 +90,6 @@ Le grand œuvre de Platon, en dix livres. Partant de la question « qu'est-ce qu
 Récit des derniers instants de Socrate, qui discute de l'**immortalité de l'âme** avant de boire la ciguë. On y trouve l'idée que **philosopher, c'est apprendre à mourir** (se détacher du corps pour l'âme et la vérité), ainsi qu'une exposition de la théorie des Idées et de la réminiscence.
 
 
-<br/>
+## Vidéo complémentaire
 
 <iframe width="700" height="450" src="https://www.youtube.com/embed/o5TbXYe64A8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -51,6 +51,6 @@ Recueil des leçons orales d'Épictète, prises en note par Arrien. Sur les huit
 Bref abrégé (une cinquantaine de courts chapitres) tiré des *Entretiens* par Arrien, destiné à être **appris par cœur** et gardé « sous la main » (sens du mot grec *enchiridion*). Il s'ouvre sur la distinction **ce qui dépend de nous / ce qui n'en dépend pas** et enchaîne préceptes et images (l'acteur, le voyageur, le banquet). Sa concision en a fait, à travers les siècles, un manuel de sagesse pratique universel.
 
 
-<br/>
+## Vidéo complémentaire
 
 <iframe width="700" height="450" src="https://www.youtube.com/embed/iFrlZibGo2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

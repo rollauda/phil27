@@ -59,6 +59,6 @@ Traité fondamental sur la nature (*phusis*). Aristote y définit la nature comm
 Traité sur l'art poétique, en particulier la tragédie. Aristote y développe le concept de **mimèsis** (imitation) : l'art n'est pas une copie servile de la réalité mais une représentation qui dit le possible et l'universel. La tragédie produit chez le spectateur la **catharsis**, une purification des passions (pitié et crainte) par le spectacle de l'action dramatique.
 
 
-<br/>
+## Vidéo complémentaire
 
 <iframe width="700" height="450" src="https://www.youtube.com/embed/aF6qA3V1B2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
