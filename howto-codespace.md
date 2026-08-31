@@ -6,8 +6,8 @@ Vaut pour les trois sites de la saison : **phil27**, **hlp27**, **dgemc27**.
 
 ```bash
 npm run build                  # 1. vérifier que le site se construit
-git add <fichiers>             # 2. choisir ce qui part
-git commit -m "Publie la leçon 03 (justice)"
+git add -A             # 2. choisir ce qui part
+git commit -m "update"
 git push                       # 3. envoyer — le site est en ligne 1 à 2 min après
 ```
 
