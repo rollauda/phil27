@@ -12,8 +12,7 @@ const config = {
   tagline: 'Rolland Auda, La Condamine, Quito, 2026-2027',
   favicon: 'img/philo.svg',
 
-  // TODO bascule prod : remplacer par https://philo.profauda.fr quand phil27 prend la suite de phil25
-  url: 'https://phil27.profauda.fr',
+  url: 'https://philo.profauda.fr',
   baseUrl: '/',
 
   organizationName: 'rollauda',
