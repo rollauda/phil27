@@ -183,3 +183,22 @@ table th {
 table td, table th {
   border: 1px solid #dee2e6 !important;
 }
+/* ------------------------------------------------------------------ */
+/* Pages de chapitre dans la sidebar (frontmatter sidebar_class_name)  */
+/* La sidebar est plate : ces trois entrées doivent se lire comme des  */
+/* intertitres, pas comme des leçons.                                  */
+/* ------------------------------------------------------------------ */
+.menu__list-item.chapitre > .menu__link,
+.menu__link.chapitre {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 0.82rem;
+  color: var(--ifm-color-primary);
+}
+
+.menu__list-item.chapitre {
+  margin-top: 1.2rem;
+  border-top: 1px solid var(--ifm-color-emphasis-300);
+  padding-top: 0.6rem;
+}

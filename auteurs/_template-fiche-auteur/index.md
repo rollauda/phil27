@@ -8,7 +8,7 @@ sidebar_position: 0
 
 > **Courant** : […]
 > **Notions traitées dans l'année** : [Notion A, Notion B…]
-> **Leçons** : [L1](/docs/01-bonheur), …
+> **Leçons** : [L1](/docs/bonheur), …
 
 ## Repères
 
