@@ -2,25 +2,22 @@
 
 Vaut pour les trois sites de la saison : **phil27**, **hlp27**, **dgemc27**.
 
-## Publier : quatre commandes
+## Publier : trois commandes
 
 ```bash
-npm run build          # 1. vérifier que le site se construit
-git status             # 2. regarder ce qui va partir
-git add -A             # 3. tout prendre
-git commit -m "Publie la leçon 03 (justice)"
-git push               # 4. envoyer — le site est en ligne 1 à 2 min après
+npm run build                          # 1. vérifier que le site se construit
+git add -A && git commit -m "update"   # 2. tout enregistrer
+git push                               # 3. envoyer — le site est en ligne 1 à 2 min après
 ```
 
 **Le `push` suffit.** GitHub Actions construit le site et le met en ligne tout seul. Il n'y a rien d'autre à lancer.
 
-## Avant de pousser : quatre vérifications
+## Avant de pousser : les vérifications qui comptent
 
 0. **Regarder `git status`.** `git add -A` prend tout ce qui a changé, à l'instant où vous le lancez. Les dossiers lourds (`.venv/`, `node_modules/`, `build/`) sont ignorés, il n'y a donc rien à craindre de ce côté — mais si une publication est en cours depuis le coffre, vous commiteriez un état à moitié écrit. Un coup d'œil suffit à l'éviter.
 1. **`npm run build` passe.** Un lien mort fait échouer la construction, et le site reste alors sur sa version précédente.
 2. **Les PDF et les diaporamas sont dans le commit.** C'est le piège le plus fréquent : une page qui embarque un PDF non commité s'affiche parfaitement en local et reste **vide en ligne**. Vérifier `static/pdf/` et `static/slides/`.
 3. **Rien de personnel.** Ces dépôts sont **publics** : pas de corrigé réservé, pas de nom d'élève, pas de document sous droits qu'on ne veut pas diffuser.
-4. **Le message dit ce qui devient visible.** « Publie la leçon 02 (temps) » se retrouve dans six mois ; « up » ne dit rien.
 
 ## À ne pas faire
 
