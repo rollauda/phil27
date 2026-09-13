@@ -73,4 +73,4 @@ Les commandes de publication sont **les mêmes** que ci-dessus.
 |---|---|---|
 | phil27 | philo.profauda.fr | phil26.profauda.fr |
 | dgemc27 | dgemc.profauda.fr | dgemc26.profauda.fr |
-| hlp27 | *bascule à venir* — hlp27.profauda.fr | hlp.profauda.fr, encore servi par hlp25 |
+| hlp27 | hlp.profauda.fr | hlp26.profauda.fr |
