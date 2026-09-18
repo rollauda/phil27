@@ -47,11 +47,11 @@ Rechercher le plaisir n'est pas s'abandonner à toute impulsion : il faut **pese
 ## Auteurs
 
 **Versant radical** — assouvir les désirs, plaisir actif et présent :
-- **Calliclès** — personnage du *Gorgias* de Platon (non un philosophe historique) : l'hédonisme radical à l'état pur — l'assouvissement *illimité* des désirs, érigé en « juste selon la nature ». Cf. `05-Auteurs/Platon/`.
-- **Aristippe de Cyrène** (v. 435 – v. 355 av. J.-C.) — fondateur de l'école cyrénaïque : le plaisir-mouvement, corporel et présent — un hédonisme radical, mais *tempéré par la maîtrise* (« posséder sans être possédé »). Source : Diogène Laërce, *Vies*, II. Fiche : `05-Auteurs/Aristippe/fiche-aristippe.md`.
+- **Calliclès** — personnage du *Gorgias* de Platon (non un philosophe historique) : l'hédonisme radical à l'état pur — l'assouvissement *illimité* des désirs, érigé en « juste selon la nature ». Cf. [Platon](/auteurs/platon).
+- **Aristippe de Cyrène** (v. 435 – v. 355 av. J.-C.) — fondateur de l'école cyrénaïque : le plaisir-mouvement, corporel et présent — un hédonisme radical, mais *tempéré par la maîtrise* (« posséder sans être possédé »). Source : Diogène Laërce, *Vies*, II. Fiche : [Aristippe](/auteurs/aristippe).
 
 **Versant modéré** — limiter les désirs, plaisir-repos :
-- **Épicure** (341-270 av. J.-C.) — l'hédonisme du plaisir-repos (*ataraxie*), fondé sur le tri et le **calcul** des plaisirs et sur l'autosuffisance ; *Lettre à Ménécée*. Fiche : `05-Auteurs/Epicure/fiche-epicure.md`.
+- **Épicure** (341-270 av. J.-C.) — l'hédonisme du plaisir-repos (*ataraxie*), fondé sur le tri et le **calcul** des plaisirs et sur l'autosuffisance ; *Lettre à Ménécée*. Fiche : [Épicure](/auteurs/epicure).
 
 **Prolongements modernes** — l'hédonisme devenu morale sociale :
 - **Jeremy Bentham** (1748-1832) — *Introduction aux principes de la morale et de la législation* (1789) : l'**utilitarisme**, hédonisme transformé en principe social — « le plus grand bonheur du plus grand nombre » — assorti d'une « arithmétique des plaisirs ».
@@ -63,11 +63,11 @@ Rechercher le plaisir n'est pas s'abandonner à toute impulsion : il faut **pese
 **Courants apparentés**
 - **Épicurisme** — la principale école hédoniste, versant **modéré** : le plaisir comme repos et absence de trouble.
 - **Utilitarisme** — hédonisme étendu à la société (XIXᵉ s.) : le bien collectif se mesure à la somme des plaisirs et des peines.
-- **Eudémonisme** — genre plus large dont l'hédonisme est une **espèce** : pour Épicure, le plaisir est la *voie* du bonheur (cf. `07-Courants/Eudemonisme/fiche-eudemonisme.md`).
+- **Eudémonisme** — genre plus large dont l'hédonisme est une **espèce** : pour Épicure, le plaisir est la *voie* du bonheur (cf. [Eudémonisme](/courants/eudemonisme)).
 
 **Courants opposés**
-- **Stoïcisme** — désaccord fondamental : le plaisir n'est qu'un « indifférent » ; seule la **vertu** fait le bonheur, et il faut *consentir* au cours des choses, non en jouir (cf. `07-Courants/Stoicisme/`).
-- **Morale kantienne du devoir** (déontologisme) — désaccord fondamental : la valeur morale ne vient pas du plaisir mais du **respect de la loi** ; il faut agir *par devoir*, non par inclination (cf. `07-Courants/Deontologisme/`).
+- **Stoïcisme** — désaccord fondamental : le plaisir n'est qu'un « indifférent » ; seule la **vertu** fait le bonheur, et il faut *consentir* au cours des choses, non en jouir (cf. [Stoïcisme](/courants/stoicisme)).
+- **Morale kantienne du devoir** (déontologisme) — désaccord fondamental : la valeur morale ne vient pas du plaisir mais du **respect de la loi** ; il faut agir *par devoir*, non par inclination (cf. Déontologisme).
 - **Cynisme / ascétisme** — désaccord fondamental : la vertu est dans le **renoncement** et la maîtrise des besoins, non dans la jouissance.
 
 
