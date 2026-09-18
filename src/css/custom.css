@@ -202,3 +202,16 @@ table td, table th {
   border-top: 1px solid var(--ifm-color-emphasis-300);
   padding-top: 0.6rem;
 }
+
+/* Klèrôtèrion intégré (HVC) : la page passe de deux flux de noms à un seul
+   quand elle devient étroite, et double alors de hauteur — l'iframe suit. */
+.kleroterion-frame {
+  width: 100%;
+  height: 1040px;
+  border: none;
+  display: block;
+}
+
+@media (max-width: 800px) {
+  .kleroterion-frame { height: 1620px; }
+}

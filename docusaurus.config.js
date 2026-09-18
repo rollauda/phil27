@@ -95,6 +95,15 @@ const config = {
         sidebarPath: require.resolve('./sidebars.js'),
       },
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'hvc',
+        path: 'hvc',
+        routeBasePath: 'hvc',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
   ],
 
   themes: ['@docusaurus/theme-mermaid'],
@@ -156,6 +165,12 @@ const config = {
             label: 'Méthode',
             position: 'left',
             activeBaseRegex: `/methode/`,
+          },
+          {
+            to: '/hvc/intro',
+            label: 'HVC',
+            position: 'left',
+            activeBaseRegex: `/hvc/`,
           },
           {
             href: 'https://www.profauda.fr/',
