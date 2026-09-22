@@ -8,7 +8,6 @@ sidebar_position: 0
 :::warning[présentation de la leçon]
 - **Perspectives**  : La morale et la politique
 - **Notion principale** : `LIBERTÉ`
-- *Notion complémentaire* : *`État`, `Justice`, `Conscience`, `Inconscient`*
 - *Repères conceptuels* : *en fait – en droit, contingent – nécessaire*
 - **Méthode** : conceptualiser : distinguer les sens d'un mot
 - **Auteurs étudiés** : Leibniz
