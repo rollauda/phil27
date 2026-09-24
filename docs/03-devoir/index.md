@@ -11,7 +11,7 @@ sidebar_position: 0
 - *Notion complémentaire* : *`Raison`, `Nature`*
 - *Repères conceptuels* : *obligation – contrainte*
 - **Méthode** : la dissertation
-- **Auteurs étudiés** : Hume, Kant, Rousseau, Durkheim
+- **Auteurs étudiés** : Hume, Kant, Rousseau, Durkheim, Aristote, Bentham, Mill
 - <u>**À FAIRE**</u> :
   - **Mettre à jour le tableau des notions étudiées pendant l'année**.
   - **Reprendre dans un carnet les définitions du cours à retenir**.

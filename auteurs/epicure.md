@@ -6,48 +6,48 @@ title: Épicure
 
 ## Biographie
 
-**Épicure** (341-270 av. J.-C.) est un philosophe grec de l'époque hellénistique, fondateur de l'**épicurisme** : la première grande philosophie à concevoir explicitement la pensée comme une **médecine de l'âme**, tout entière ordonnée au bonheur de l'individu.
+**Épicure** (341-270 av. J.-C.) est un philosophe grec de l'époque hellénistique, fondateur de l'**épicurisme** : la première grande philosophie à concevoir explicitement la pensée comme une **médecine de l'âme**, tout entière ordonnée au bonheur de l'individu.
 
-Il naît en 341 av. J.-C. à **Samos**, île de la mer Égée où son père, citoyen athénien, s'était installé comme maître d'école. Il découvre la philosophie très jeune et se forme notamment auprès de **Nausiphane**, un disciple de Démocrite : c'est de là qu'il hérite l'**atomisme**, la doctrine qui explique tout ce qui existe par des atomes en mouvement dans le vide. Après avoir enseigné à Mytilène puis à Lampsaque, il s'installe à Athènes vers 306 et y fonde son école dans le jardin de sa maison — d'où son nom : **le Jardin** (*Kêpos*).
+**Contexte intellectuel :** Épicure écrit après la chute de la liberté politique des cités grecques (conquête macédonienne). La philosophie ne cherche plus, comme chez [Platon](/auteurs/platon) ou [Aristote](/auteurs/aristote), à former le **citoyen**, mais à assurer la **sérénité de l'individu**. Sur le plan physique, il reprend l'atomisme de **Démocrite** ; sur le plan moral, il fait du plaisir le souverain bien — mais un plaisir redéfini. Son grand adversaire est double : d'un côté la **religion populaire** et la peur des dieux ; de l'autre, à l'inverse de la caricature qu'on lui prête, l'**[hédonisme](/courants/hedonisme) vulgaire** de la débauche (celui du Calliclès de Platon). Contemporain de **Zénon de Cition**, fondateur du [stoïcisme](/courants/stoicisme), il s'oppose frontalement à lui : là où les stoïciens affirment un **destin** providentiel, Épicure défend la **contingence** du monde et la **liberté** humaine. Ces deux écoles rivales domineront toute la philosophie hellénistique et romaine.
 
 ## Concepts
 
 ### 1. Le plaisir-repos (*hêdonê* catastématique)
 
-L'épicurisme est un **hédonisme** (de *hêdonê*, « plaisir ») : le plaisir est le souverain bien. Mais Épicure distingue deux plaisirs que le langage courant confond. Le **plaisir en mouvement** (cinétique) est la jouissance active — manger, boire, satisfaire un désir : il est violent, éphémère et surtout *insatiable* (c'est le « tonneau percé » qu'on remplit sans fin). Le **plaisir en repos** (catastématique) est l'état d'équilibre atteint *une fois la douleur supprimée* : ne plus manquer de rien. Le véritable bonheur est ce plaisir-repos, qui a deux versants : l'**aponie** (absence de douleur du corps) et l'**ataraxie** (absence de trouble de l'âme). Renverser la valeur des deux plaisirs — préférer le repos à la jouissance — est le geste fondateur de la sagesse épicurienne.
+L'épicurisme est un **hédonisme** (de *hêdonê*, « plaisir ») : le plaisir est le souverain bien. Mais Épicure distingue deux plaisirs que le langage courant confond. Le **plaisir en mouvement** (cinétique) est la jouissance active — manger, boire, satisfaire un désir : il est violent, éphémère et surtout *insatiable* (c'est le « tonneau percé » qu'on remplit sans fin). Le **plaisir en repos** (catastématique) est l'état d'équilibre atteint *une fois la douleur supprimée* : ne plus manquer de rien. Le véritable bonheur est ce plaisir-repos, qui a deux versants : l'**aponie** (absence de douleur du corps) et l'**ataraxie** (absence de trouble de l'âme). Renverser la valeur des deux plaisirs — préférer le repos à la jouissance — est le geste fondateur de la sagesse épicurienne.
 
 ### 2. La classification des désirs
 
-Puisque le malheur vient du désir qui s'emballe, il faut apprendre à **trier** ses désirs. Épicure les répartit en trois classes, hiérarchisées selon leur rapport à la nature et à la nécessité :
-1. Les désirs **naturels et nécessaires** — boire quand on a soif, manger quand on a faim : leur satisfaction supprime une douleur réelle, et ils sont *faciles* à combler.
-2. Les désirs **naturels mais non nécessaires** — le mets raffiné plutôt que le pain, la variété des plaisirs : ils ne suppriment aucune douleur, ils ne font que *varier* le plaisir. On peut s'en passer.
-3. Les désirs **ni naturels ni nécessaires** (vains) — la richesse, la gloire, le pouvoir : illimités par nature, ils ne peuvent jamais être rassasiés et sont la source même du trouble.
+Puisque le malheur vient du désir qui s'emballe, il faut apprendre à **trier** ses désirs. Épicure les répartit en trois classes, hiérarchisées selon leur rapport à la nature et à la nécessité :
+1. Les désirs **naturels et nécessaires** — boire quand on a soif, manger quand on a faim : leur satisfaction supprime une douleur réelle, et ils sont *faciles* à combler.
+2. Les désirs **naturels mais non nécessaires** — le mets raffiné plutôt que le pain, la variété des plaisirs : ils ne suppriment aucune douleur, ils ne font que *varier* le plaisir. On peut s'en passer.
+3. Les désirs **ni naturels ni nécessaires** (vains) — la richesse, la gloire, le pouvoir : illimités par nature, ils ne peuvent jamais être rassasiés et sont la source même du trouble.
 
 La sagesse consiste à combler les premiers et à se libérer des derniers. Comprendre cette hiérarchie, c'est déjà commencer à guérir.
 
 ### 3. Le quadruple remède (*tetrapharmakos*)
 
-Toute la doctrine se condense en un **quadruple remède** — quatre vérités qui, méditées, suffisent à rendre l'âme sereine : (1) *les dieux ne sont pas à craindre* — bienheureux et immortels, ils ne s'occupent pas des hommes ; (2) *la mort n'est pas à craindre* — elle est privation de toute sensation ; (3) *le bonheur est facile à atteindre* — il suffit de limiter ses désirs ; (4) *la douleur est facile à supporter* — si elle est intense, elle est brève ; si elle dure, elle est faible. L'enjeu est thérapeutique : la philosophie n'est pas un savoir abstrait mais un **traitement des peurs**. Les deux premiers remèdes reposent d'ailleurs sur la **physique** (voir concept 5) : c'est en comprenant la nature qu'on cesse de craindre les dieux et la mort.
+Toute la doctrine se condense en un **quadruple remède** — quatre vérités qui, méditées, suffisent à rendre l'âme sereine : (1) *les dieux ne sont pas à craindre* — bienheureux et immortels, ils ne s'occupent pas des hommes ; (2) *la mort n'est pas à craindre* — elle est privation de toute sensation ; (3) *le bonheur est facile à atteindre* — il suffit de limiter ses désirs ; (4) *la douleur est facile à supporter* — si elle est intense, elle est brève ; si elle dure, elle est faible. L'enjeu est thérapeutique : la philosophie n'est pas un savoir abstrait mais un **traitement des peurs**. Les deux premiers remèdes reposent d'ailleurs sur la **physique** (voir concept 5) : c'est en comprenant la nature qu'on cesse de craindre les dieux et la mort.
 
-### 4. « La mort n'est rien pour nous »
+### 4. « La mort n'est rien pour nous »
 
-Ce n'est pas un slogan mais un **argument**, dirigé contre l'évidence commune selon laquelle la mort serait le pire des maux. Épicure raisonne ainsi : tout bien et tout mal résident dans la **sensation** ; or la mort est précisément l'*absence de toute sensation* ; donc la mort n'est ni un bien ni un mal — elle « n'est rien pour nous ». Il ajoute l'argument de la non-rencontre : « tant que nous existons, la mort n'est pas là ; quand la mort est là, nous ne sommes plus ». La mort et le sujet ne se croisent jamais. L'enjeu n'est pas macabre mais existentiel : se libérer de la peur de mourir, c'est cesser de désirer l'immortalité et rendre au **présent** toute sa valeur.
+Ce n'est pas un slogan mais un **argument**, dirigé contre l'évidence commune selon laquelle la mort serait le pire des maux. Épicure raisonne ainsi : tout bien et tout mal résident dans la **sensation** ; or la mort est précisément l'*absence de toute sensation* ; donc la mort n'est ni un bien ni un mal — elle « n'est rien pour nous ». Il ajoute l'argument de la non-rencontre : « tant que nous existons, la mort n'est pas là ; quand la mort est là, nous ne sommes plus ». La mort et le sujet ne se croisent jamais. L'enjeu n'est pas macabre mais existentiel : se libérer de la peur de mourir, c'est cesser de désirer l'immortalité et rendre au **présent** toute sa valeur.
 
 ### 5. La physique atomiste et la déclinaison (*clinamen*)
 
-La morale d'Épicure s'appuie sur une **physique matérialiste** héritée de Démocrite : tout ce qui existe se réduit à des **atomes** (insécables, éternels) et au **vide** dans lequel ils tombent. Les corps naissent et se défont au gré de leurs rencontres — l'âme elle-même est faite d'atomes subtils, et la mort n'est que leur dispersion. Épicure ajoute une thèse décisive : en tombant, les atomes *dévient* imperceptiblement de leur trajectoire — la **déclinaison**, en latin *clinamen* (doctrine surtout connue par **Lucrèce** et Cicéron). Cette déviation minuscule a une portée immense : elle fonde à la fois la **contingence** du monde (aucun dieu ne l'a ordonné) et le **libre-arbitre** humain (contre le déterminisme strict de Démocrite). Ainsi, connaître la nature n'est pas une curiosité savante : c'est se guérir de la crainte des dieux et de la mort.
+La morale d'Épicure s'appuie sur une **physique matérialiste** héritée de Démocrite : tout ce qui existe se réduit à des **atomes** (insécables, éternels) et au **vide** dans lequel ils tombent. Les corps naissent et se défont au gré de leurs rencontres — l'âme elle-même est faite d'atomes subtils, et la mort n'est que leur dispersion. Épicure ajoute une thèse décisive : en tombant, les atomes *dévient* imperceptiblement de leur trajectoire — la **déclinaison**, en latin *clinamen* (doctrine surtout connue par **Lucrèce** et Cicéron). Cette déviation minuscule a une portée immense : elle fonde à la fois la **contingence** du monde (aucun dieu ne l'a ordonné) et le **libre-arbitre** humain (contre le déterminisme strict de Démocrite). Ainsi, connaître la nature n'est pas une curiosité savante : c'est se guérir de la crainte des dieux et de la mort.
 
 ## Notions du programme
 
 | Notion | Lien avec Épicure |
 |--------|--------------------|
 | **Le bonheur** | Le bonheur comme plaisir-repos (*ataraxie* et *aponie*), le calcul des plaisirs, l'autosuffisance (*Lettre à Ménécée*) |
-| **La liberté** | Le *clinamen* fonde le libre-arbitre contre le déterminisme ; l'autosuffisance comme liberté intérieure (« Cache ta vie ») |
-| **La religion** | Critique de la crainte des dieux ; les dieux existent mais ne gouvernent pas le monde ; la vraie impiété (*Lettre à Ménécée*, §123-124) |
-| **La nature** | Physique matérialiste (atomes et vide) ; connaître la nature guérit des peurs ; distinction du naturel et du vain dans les désirs |
-| **La raison** | La prudence (*phronêsis*), calcul des plaisirs et des peines, « le plus grand des biens » ; la philosophie comme raisonnement vigilant |
-| **La science** | L'atomisme et la *canonique* (théorie de la connaissance fondée sur la sensation et les « prénotions ») (*Lettre à Hérodote*) |
-| **Le devoir** | *Par contraste* : l'épicurisme est une morale du bonheur, non du devoir — utile pour opposer eudémonisme et morale déontologique (Kant) |
+| **La liberté** | Le *clinamen* fonde le libre-arbitre contre le déterminisme ; l'autosuffisance comme liberté intérieure (« Cache ta vie ») |
+| **La religion** | Critique de la crainte des dieux ; les dieux existent mais ne gouvernent pas le monde ; la vraie impiété (*Lettre à Ménécée*, §123-124) |
+| **La nature** | Physique matérialiste (atomes et vide) ; connaître la nature guérit des peurs ; distinction du naturel et du vain dans les désirs |
+| **La raison** | La prudence (*phronêsis*), calcul des plaisirs et des peines, « le plus grand des biens » ; la philosophie comme raisonnement vigilant |
+| **La science** | L'atomisme et la *canonique* (théorie de la connaissance fondée sur la sensation et les « prénotions ») (*Lettre à Hérodote*) |
+| **Le devoir** | *Par contraste* : l'épicurisme est une morale du bonheur, non du devoir — utile pour opposer [eudémonisme](/courants/eudemonisme) et morale déontologique ([Kant](/auteurs/kant)) |
 
 ## Œuvres
 
@@ -57,10 +57,10 @@ La morale d'Épicure s'appuie sur une **physique matérialiste** héritée de D�
 Court résumé de l'**éthique** épicurienne, adressé à un disciple. On y trouve le **quadruple remède**, la classification des désirs, l'argument sur la mort et la définition du **plaisir-repos**. C'est le texte le plus enseigné en Terminale, véritable manuel de la vie heureuse.
 
 ### *Lettre à Hérodote*
-Résumé de la **physique** : les principes de l'atomisme (atomes, vide, mouvement) et de la **canonique** (la théorie de la connaissance, fondée sur les sensations et les « prénotions »). Base théorique dont dépend toute la morale.
+Résumé de la **physique** : les principes de l'atomisme (atomes, vide, mouvement) et de la **canonique** (la théorie de la connaissance, fondée sur les sensations et les « prénotions »). Base théorique dont dépend toute la morale.
 
 ### *Maximes capitales* (*Kyriai doxai*)
-Recueil de **quarante sentences** condensant la doctrine sous une forme mémorisable. La II<sup>e</sup> énonce que « **la mort n'est rien pour nous** » ; la IV<sup>e</sup> fonde le remède contre la douleur.
+Recueil de **quarante sentences** condensant la doctrine sous une forme mémorisable. La II<sup>e</sup> énonce que « **la mort n'est rien pour nous** » ; la IV<sup>e</sup> fonde le remède contre la douleur.
 
 ### *Sentences vaticanes*
 Recueil de quatre-vingt-une maximes, redécouvert en 1888 dans un manuscrit du Vatican. Plusieurs prolongent les *Maximes capitales* et insistent sur l'**amitié** (*philia*), valeur centrale du Jardin — qu'une maxime fameuse (Maxime capitale XXVII) place au premier rang des biens que procure la sagesse.

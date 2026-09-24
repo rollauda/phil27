@@ -10,7 +10,7 @@ sidebar_position: 0
 - **Notion principale** : `LIBERTÉ`
 - *Repères conceptuels* : *en fait – en droit, contingent – nécessaire*
 - **Méthode** : conceptualiser : distinguer les sens d'un mot
-- **Auteurs étudiés** : Leibniz
+- **Auteurs étudiés** : Leibniz, Épictète
 - <u>**À FAIRE**</u> :
   - **Mettre à jour le tableau des notions étudiées pendant l'année**.
   - **Reprendre dans un carnet les définitions du cours à retenir**.
