@@ -35,7 +35,7 @@ Le déontologisme se définit par contraste. Pour le **conséquentialisme** (uti
 ## Courants liés
 
 ### Courants apparentés
-- **Contractualisme** (Kant, Rawls) — parenté forte : Rawls développe une théorie de la justice explicitement anti-utilitariste, dans l'esprit kantien du respect des personnes.
+- **[Contractualisme](/courants/contractualisme)** (Kant, Rawls) — parenté forte : Rawls développe une théorie de la justice explicitement anti-utilitariste, dans l'esprit kantien du respect des personnes.
 - **Éthique des droits humains** — l'idée de dignité inconditionnelle de la personne, non négociable, est d'ascendance déontologique.
 
 ### Courants opposés

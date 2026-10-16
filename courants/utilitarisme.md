@@ -54,5 +54,5 @@ C'est aussi le point où toutes les critiques se rejoignent. Rawls lui reproche 
 ### Courants opposés
 
 - **Déontologisme** (Kant) — **point de désaccord fondamental** : l'existence d'un absolu moral. Pour Kant, il faut traiter l'humanité toujours aussi comme une fin et jamais simplement comme un moyen — ce qui interdit par principe le sacrifice qu'un calcul pourrait recommander. L'opposition la plus nette du programme. → [Déontologisme](/courants/deontologisme)
-- **Contractualisme**, version rawlsienne — Rawls construit toute sa théorie **contre** l'utilitarisme : les personnes sont séparées, et le bien-être de l'une ne compense pas le malheur de l'autre. → Contractualisme
+- **Contractualisme**, version rawlsienne — Rawls construit toute sa théorie **contre** l'utilitarisme : les personnes sont séparées, et le bien-être de l'une ne compense pas le malheur de l'autre. → [Contractualisme](/courants/contractualisme)
 - **Libertarianisme** (Nozick) — les droits individuels ne sont pas des quantités à maximiser mais des **contraintes** qui bornent ce qu'on peut faire, quel que soit le total obtenu.

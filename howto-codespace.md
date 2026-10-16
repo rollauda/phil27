@@ -69,8 +69,8 @@ Les commandes de publication sont **les mêmes** que ci-dessus.
 
 ## Adresses
 
-| Site | En ligne | Saison précédente, archivée |
-|---|---|---|
-| phil27 | philo.profauda.fr | phil26.profauda.fr |
-| dgemc27 | dgemc.profauda.fr | dgemc26.profauda.fr |
-| hlp27 | hlp.profauda.fr | hlp26.profauda.fr |
+| Site    | En ligne          | Saison précédente, archivée |
+| ------- | ----------------- | ------------------------------ |
+| phil27  | philo.profauda.fr | phil26.profauda.fr             |
+| dgemc27 | dgemc.profauda.fr | dgemc26.profauda.fr            |
+| hlp27   | hlp.profauda.fr   | hlp26.profauda.fr              |
