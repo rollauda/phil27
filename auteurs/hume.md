@@ -6,7 +6,7 @@ title: Hume
 
 ## Biographie
 
-**David Hume** (Édimbourg, 7 mai 1711 – Édimbourg, 25 août 1776) est le plus grand philosophe **empiriste** britannique et l'une des figures majeures des Lumières écossaises. Dans la lignée de Locke et Berkeley, il porte l'[empirisme](/courants/empirisme) jusqu'à ses conséquences les plus radicales : si toute connaissance vient de l'expérience, alors bien des certitudes que la raison croyait fonder — la causalité, l'induction, l'identité du moi — se révèlent être des **croyances** produites par l'**habitude**, et non des vérités démontrables.
+**David Hume** (Édimbourg, 7 mai 1711 – Édimbourg, 25 août 1776) est le plus grand philosophe **empiriste** britannique et l'une des figures majeures des Lumières écossaises. Dans la lignée de [Locke](/auteurs/locke) et Berkeley, il porte l'[empirisme](/courants/empirisme) jusqu'à ses conséquences les plus radicales : si toute connaissance vient de l'expérience, alors bien des certitudes que la raison croyait fonder — la causalité, l'induction, l'identité du moi — se révèlent être des **croyances** produites par l'**habitude**, et non des vérités démontrables.
 
 **Contexte intellectuel** : Hume écrit *après* Locke (l'esprit est une *tabula rasa*, tout vient de l'expérience) et *contre* le rationalisme (Descartes, [Leibniz](/auteurs/leibniz)) qui prétend atteindre des vérités par la seule raison. Son projet est de fonder une **« science de la nature humaine »** appliquant à l'esprit la méthode expérimentale de Newton : observer les phénomènes mentaux, en dégager les lois (association des idées), sans postuler de facultés cachées. C'est en le lisant, dira [Kant](/auteurs/kant), qu'il fut « réveillé de [son] sommeil dogmatique ».
 

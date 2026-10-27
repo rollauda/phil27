@@ -49,7 +49,7 @@ C'est aussi le point où toutes les critiques se rejoignent. Rawls lui reproche 
 
 - **Empirisme** — filiation directe : aucune valeur n'est connue *a priori*, tout se constate dans l'expérience du plaisir et de la peine. → [Empirisme](/courants/empirisme)
 - **Hédonisme** — même matière première, le plaisir, mais l'utilitarisme le rend **collectif et impartial** : il ne s'agit pas de mon plaisir mais de la somme. → [Hédonisme](/courants/hedonisme)
-- **Libéralisme** — par Mill : la liberté individuelle se justifie utilitairement, parce qu'elle produit plus de bien qu'elle n'en coûte. → Libéralisme
+- **Libéralisme** — par Mill : la liberté individuelle se justifie utilitairement, parce qu'elle produit plus de bien qu'elle n'en coûte. → [Libéralisme](/courants/liberalisme)
 
 ### Courants opposés
 

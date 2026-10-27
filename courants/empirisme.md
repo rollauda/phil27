@@ -16,7 +16,7 @@ C'est la formule-devise du courant, héritée de la scolastique, la philosophie 
 
 ### 2. **Il n'y a pas d'idées innées** (négation polémique)
 
-Le livre I de l'*Essai sur l'entendement humain* de Locke est une réfutation en règle de l'innéisme, cartésien et scolastique. L'argument est double. D'abord, aucun principe n'est réellement universel : ni les enfants ni les peuples les plus éloignés ne reconnaissent ces prétendues vérités « gravées dans l'âme ». Ensuite, si une idée peut être dans l'esprit sans qu'on en ait jamais conscience, la notion d'idée perd tout sens. L'esprit est donc au départ une **table rase**.
+Le livre I de l'*Essai sur l'entendement humain* de [Locke](/auteurs/locke) est une réfutation en règle de l'innéisme, cartésien et scolastique. L'argument est double. D'abord, aucun principe n'est réellement universel : ni les enfants ni les peuples les plus éloignés ne reconnaissent ces prétendues vérités « gravées dans l'âme ». Ensuite, si une idée peut être dans l'esprit sans qu'on en ait jamais conscience, la notion d'idée perd tout sens. L'esprit est donc au départ une **table rase**.
 
 La portée dépasse la théorie de la connaissance : s'il n'y a pas d'idées innées, il n'y a pas non plus de morale innée — ce qui ouvre la question de la leçon sur le devoir.
 

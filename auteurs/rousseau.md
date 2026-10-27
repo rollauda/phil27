@@ -8,7 +8,7 @@ title: Rousseau
 
 **Jean-Jacques Rousseau (Genève, 1712 — Ermenonville, 1778) est le philosophe des Lumières qui retourne contre elles l'idée de progrès : les sciences, les arts et la vie en société n'ont pas amélioré l'homme, naturellement bon, ils l'ont corrompu.** Toute son œuvre cherche comment un être ainsi dénaturé peut retrouver sa liberté : par une éducation qui suive la nature (*Émile*), et par un contrat qui fasse de la loi l'expression de la volonté de tous (*Du contrat social*).
 
-**Contexte intellectuel** : Rousseau est un homme des Lumières qui pense *contre* les Lumières. Contre Hobbes, il refuse que l'état de nature soit une guerre de tous contre tous. Contre Voltaire et Diderot, il refuse que les sciences et les arts adoucissent les mœurs. Contre les philosophes qui font de la raison la source de la morale, il place à l'origine un **sentiment**, la pitié, antérieur à toute réflexion ; sur ce point, il rejoint [Hume](/auteurs/hume), avec qui il se brouillera pourtant.
+**Contexte intellectuel** : Rousseau est un homme des Lumières qui pense *contre* les Lumières. Contre [Hobbes](/auteurs/hobbes), il refuse que l'état de nature soit une guerre de tous contre tous. Contre Voltaire et Diderot, il refuse que les sciences et les arts adoucissent les mœurs. Contre les philosophes qui font de la raison la source de la morale, il place à l'origine un **sentiment**, la pitié, antérieur à toute réflexion ; sur ce point, il rejoint [Hume](/auteurs/hume), avec qui il se brouillera pourtant.
 
 ## Concepts
 
