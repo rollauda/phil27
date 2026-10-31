@@ -8,14 +8,14 @@ title: Tableau des notions
 
 | Notions | Notion **PRINCIPALE** | Notion **SECONDAIRE** | Notions | Notion **PRINCIPALE** | Notion **SECONDAIRE** |
 | :------ | :-------------------: | :-------------------: | :------ | :-------------------: | :-------------------: |
-| Art | ... | ... | Nature | ... | **1** |
-| Bonheur | **1** | ... | Raison | ... | **1** |
+| Art | ... | ... | Nature | ... | **L1, L3, L5** |
+| Bonheur | **L1** | **L2** | Raison | ... | **L1, L2, L3** |
 | Conscience | ... | ... | Religion | ... | ... |
-| Devoir | ... | ... | Science | ... | ... |
-| État | ... | ... | Technique | ... | ... |
-| Inconscient | ... | ... | Temps | ... | ... |
-| Justice | ... | **1** | Travail | ... | ... |
+| Devoir | **L3** | ... | Science | ... | ... |
+| État | **L5** | **L6** | Technique | ... | ... |
+| Inconscient | ... | ... | Temps | **L2** | ... |
+| Justice | **L6** | **L1** | Travail | ... | ... |
 | Langage | ... | ... | Vérité | ... | ... |
-| Liberté | ... | **1** | | | |
+| Liberté | **L4** | **L1, L5, L6** | | | |
 
-*Les chiffres renvoient au numéro de la leçon.*
+*Les numéros renvoient aux leçons.*
